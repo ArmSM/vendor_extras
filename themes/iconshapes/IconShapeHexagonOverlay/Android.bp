@@ -15,7 +15,7 @@
 //
 
 runtime_resource_overlay {
-    name: "IconShapeSquareOverlay",
-    theme: "IconShapeSquare",
+    name: "IconShapeHexagonOverlay",
+    theme: "IconShapeHexagon",
     product_specific: true,
 }

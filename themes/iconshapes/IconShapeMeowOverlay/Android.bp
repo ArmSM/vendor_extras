@@ -14,12 +14,8 @@
 // limitations under the License.
 //
 
-package {
-    default_applicable_licenses: ["Android-Apache-2.0"],
-}
-
 runtime_resource_overlay {
-    name: "IconShapeRohieMeowOverlay",
-    theme: "IconShapeRohieMeow",
+    name: "IconShapeMeowOverlay",
+    theme: "IconShapeMeow",
     product_specific: true,
 }

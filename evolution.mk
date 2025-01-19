@@ -216,10 +216,11 @@ PRODUCT_PACKAGES += \
     IconShapeCylinderOverlay \
     IconShapeFlowerOverlay \
     IconShapeHeartOverlay \
+    IconShapeHexagonOverlay \
     IconShapeIosOverlay \
     IconShapeLeafOverlay \
+    IconShapeMeowOverlay \
     IconShapePebbleOverlay \
-    IconShapeRohieMeowOverlay \
     IconShapeRoundedHexagonOverlay \
     IconShapeRoundedRectOverlay \
     IconShapeSamsungOverlay \
