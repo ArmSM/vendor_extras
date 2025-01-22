@@ -367,7 +367,7 @@ PRODUCT_PACKAGES += \
     NavbarAndroidOverlay \
     NavbarAsusOverlay \
     NavbarDoraOverlay \
-    NavbarEvolutionOverlay \
+    NavbarSakuraOverlay \
     NavbarMotoOverlay \
     NavbarNexusOverlay \
     NavbarOldOverlay \
